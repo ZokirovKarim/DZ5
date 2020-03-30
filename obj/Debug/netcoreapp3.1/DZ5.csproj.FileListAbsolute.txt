@@ -1,0 +1,13 @@
+C:\projects\DZ5\bin\Debug\netcoreapp3.1\DZ5.exe
+C:\projects\DZ5\bin\Debug\netcoreapp3.1\DZ5.deps.json
+C:\projects\DZ5\bin\Debug\netcoreapp3.1\DZ5.runtimeconfig.json
+C:\projects\DZ5\bin\Debug\netcoreapp3.1\DZ5.runtimeconfig.dev.json
+C:\projects\DZ5\bin\Debug\netcoreapp3.1\DZ5.dll
+C:\projects\DZ5\bin\Debug\netcoreapp3.1\DZ5.pdb
+C:\projects\DZ5\obj\Debug\netcoreapp3.1\DZ5.csprojAssemblyReference.cache
+C:\projects\DZ5\obj\Debug\netcoreapp3.1\DZ5.csproj.CoreCompileInputs.cache
+C:\projects\DZ5\obj\Debug\netcoreapp3.1\DZ5.AssemblyInfoInputs.cache
+C:\projects\DZ5\obj\Debug\netcoreapp3.1\DZ5.AssemblyInfo.cs
+C:\projects\DZ5\obj\Debug\netcoreapp3.1\DZ5.dll
+C:\projects\DZ5\obj\Debug\netcoreapp3.1\DZ5.pdb
+C:\projects\DZ5\obj\Debug\netcoreapp3.1\DZ5.genruntimeconfig.cache
